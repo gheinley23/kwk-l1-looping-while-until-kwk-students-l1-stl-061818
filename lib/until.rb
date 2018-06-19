@@ -9,5 +9,10 @@ def using_until
       sleep(0.7)
       puts "levitate higher"
       sleep(0.7)
+      puts "levitate higher"
+      
+      levitation_force = levitation_force + 2
+      puts "you have levitated #{levitation_force}"
 end
-
+end
+using_until
