@@ -2,7 +2,7 @@ def using_until
         levitation_force = 6
         #your code here
     loop do 
-      if levitation_force = 10
+      if levitation_force == 10
         break
       end
       puts "levitate higher"
