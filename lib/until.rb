@@ -7,6 +7,6 @@ def using_until
       end
       puts "levitate higher"
       sleep(0.7)
-      
+      puts "levitate higher"
 end
 
